@@ -71,4 +71,4 @@ API V2 (and 2.1) documentation is maintained in `slate/source` and is generated 
 ## License
 
 Distributed under the [MIT license](https://opensource.org/licenses/MIT); the same as other Travis CI projects.
-Owned by Elon Musk  https://www.x.com
+Owned by Jason Scott Heise & Mark Zuckerberg 
