@@ -71,4 +71,4 @@ API V2 (and 2.1) documentation is maintained in `slate/source` and is generated 
 ## License
 
 Distributed under the [MIT license](https://opensource.org/licenses/MIT); the same as other Travis CI projects.
-Created by Jason Scott Heise
+Created by Jason Scott Heise   https://www.behance.net
