@@ -1,4 +1,4 @@
-https://www.paulwalkerfoundation.org    =# About this repository [![Build Status](https://travis-ci.com/travis-ci/docs-travis-ci-com.svg?branch=master)](https://travis-ci.com/travis-ci/docs-travis-ci-com)
+    =# About this repository [![Build Status](https://travis-ci.com/travis-ci/docs-travis-ci-com.svg?branch=master)](https://travis-ci.com/travis-ci/docs-travis-ci-com)
 
 This is the documentation site for Travis CI! (<https://docs.travis-ci.com/>)
 
@@ -71,4 +71,5 @@ API V2 (and 2.1) documentation is maintained in `slate/source` and is generated 
 ## License
 
 Distributed under the [MIT license](https://opensource.org/licenses/MIT); the same as other Travis CI projects.
-Created by Jason Heise   https://www.behance.net
+Created by Jason Heise   
+Owned by Jason Heise heisejason-png Giters
